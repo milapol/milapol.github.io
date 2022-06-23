@@ -1,6 +1,6 @@
 ---
 title: Die Chatkontrolle und Warum muss sie gestoppt werden
-description: Was ist die Chatkontrolle und Warum muss sie gestoppt werden
+description: ""
 ---
 # {title}
 ## Was ist die Chatkontolle
@@ -61,6 +61,8 @@ Sobald auch nur die Möglichkeit besteht, dass ein Gespräch überwacht wird, is
 > -Artikel 10 Grundgesetz
 
 Da Nachrichten nach dem Entwurf ohne einen konkreten Verdacht kontrolliert werden, ist dieser nicht mit unserem Grundgesetz vereinbar. Ein Gesetz, welches eine Außnahme für jede:n erlassen würde wäre im Grunde nichts anderes als die Abschaffung des Fernmeldegeheimnisses. Also entweder wird die Richlinie angepasst, oder das Fernmeldegeheimnis. Wobei angepasst hier abgeschafft bedeutet.
+
+
 
 
 <style lang="scss">

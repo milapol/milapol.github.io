@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-8cd5cfa7.js",
+    "file": "start-8b3dc78c.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -13,6 +13,7 @@
       "src/routes/blog/__layout.svelte",
       "src/routes/blog/die-chatkontrolle-und-warum-sie-gestoppt-wreden-muss.svx",
       "src/routes/blog/index.svelte",
+      "src/routes/blog/was-genau-ist-überhaupt-datenschutz.svx",
       "src/routes/index.svelte"
     ]
   },
@@ -50,7 +51,7 @@
     ]
   },
   "src/routes/blog/die-chatkontrolle-und-warum-sie-gestoppt-wreden-muss.svx": {
-    "file": "pages/blog/die-chatkontrolle-und-warum-sie-gestoppt-wreden-muss.svx-e2f2f893.js",
+    "file": "pages/blog/die-chatkontrolle-und-warum-sie-gestoppt-wreden-muss.svx-dffb3629.js",
     "src": "src/routes/blog/die-chatkontrolle-und-warum-sie-gestoppt-wreden-muss.svx",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -62,7 +63,7 @@
     ]
   },
   "src/routes/blog/index.svelte": {
-    "file": "pages/blog/index.svelte-43e90509.js",
+    "file": "pages/blog/index.svelte-e7699eb0.js",
     "src": "src/routes/blog/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -72,11 +73,21 @@
       "_utils-f967e714.js"
     ],
     "dynamicImports": [
-      "src/routes/blog/die-chatkontrolle-und-warum-sie-gestoppt-wreden-muss.svx"
+      "src/routes/blog/die-chatkontrolle-und-warum-sie-gestoppt-wreden-muss.svx",
+      "src/routes/blog/was-genau-ist-überhaupt-datenschutz.svx"
+    ]
+  },
+  "src/routes/blog/was-genau-ist-überhaupt-datenschutz.svx": {
+    "file": "pages/blog/was-genau-ist-überhaupt-datenschutz.svx-9d17cdbb.js",
+    "src": "src/routes/blog/was-genau-ist-überhaupt-datenschutz.svx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-154dbecc.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-8c069730.js",
+    "file": "pages/index.svelte-cf366a0b.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -86,7 +97,8 @@
       "_utils-f967e714.js"
     ],
     "dynamicImports": [
-      "src/routes/blog/die-chatkontrolle-und-warum-sie-gestoppt-wreden-muss.svx"
+      "src/routes/blog/die-chatkontrolle-und-warum-sie-gestoppt-wreden-muss.svx",
+      "src/routes/blog/was-genau-ist-überhaupt-datenschutz.svx"
     ]
   },
   "_index-154dbecc.js": {
