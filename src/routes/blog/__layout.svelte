@@ -2,18 +2,6 @@
 	import '../../app.scss';
 </script>
 
-<svelte:head>
-	<script src="../../../node_modules/bootstrap/dist/js/bootstrap.js"></script>
-</svelte:head>
-
-<svelte:window
-	onload={(e) => {
-		const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
-		const tooltipList = [...tooltipTriggerList].map(
-			(tooltipTriggerEl) => new bootstrap.Tooltip(tooltipTriggerEl)
-		);
-	}}
-/>
 
 <div class="container">
 	<div class="row p-3">

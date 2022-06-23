@@ -15,7 +15,7 @@
 	export async function load() {
 		const postsArray = await Promise.all(postPromises);
 		const posts: BlogPost[] = postsArray.map((p): BlogPost => {
-			return { path: `blog/${p[0]}/`, metadata: p[1] };
+			return { path: `blog/${p[0]}`, metadata: p[1] };
 		});
 		console.log(posts);
 
