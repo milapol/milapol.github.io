@@ -4,9 +4,9 @@
 
 
 <div class="container">
-	<div class="row p-3">
-		<div class="p-4 bg-dark rounded w-100" style="opacity: 85%;">
-			<div class="opacity-100">
+	<div class="row g-0">
+		<div class="my-2 p-3 bg-dark rounded w-100" style="opacity: 85%;">
+			<div class="opacity-100 text-break">
 				<slot />
 			</div>
 		</div>
