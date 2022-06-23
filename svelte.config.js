@@ -2,6 +2,8 @@ import adapter from '@sveltejs/adapter-static';
 import preprocess from 'svelte-preprocess';
 import { mdsvex } from 'mdsvex';
 
+const dev = "production" === "development";
+
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	extensions: ['.svelte', '.md', '.svx'],
@@ -17,7 +19,15 @@ const config = {
 	],
 
 	kit: {
-		adapter: adapter(),
+		adapter: adapter({
+            pages: "docs",
+            assets: "docs"
+        }),
+
+
+		paths: {
+            base: dev ? "" : "/milapol.github.io",
+        },
 
 		prerender: {
 			default: true,
