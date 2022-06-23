@@ -1,0 +1,76 @@
+**Datenschutz...** Was genau ist das überhaupt? Das Wort habt ihr sicher alle schon mal
+gehört. Hier und da in den Medien doch selten privat thematisiert haben wir kaum
+Berührungspunkte mit dem Thema Datenschutz. Doch gerade im Zeitalter der
+Digitalisierung, in der wir einen großen Teil unserer Zeit online verbringen, sollten wir
+lernen das Internet bewusst zu nutzen und Acht auf unsere Daten zu geben.
+In der folgenden Infobroschüre wollen wir aufklären über richtigen Datenschutz,
+Datenmissbrauch und listen euch ein paar Alternativen zu herkömmlichen Diensten wie
+z.B. YouTube auf, die teilweise sogar einige nützliche Features mehr besitzen. Die
+Texte sind in leicht verständlicher Sprachen geschrieben und sollen ebenfalls zeigen,
+dass das Thema Datenschutz doch sehr interessant und nicht schwer umsetzbar ist.
+Viel Spaß beim lesen!
+Was bedeutet Datenschutz?
+Das Wort "Datenschutz" spricht eigentlich für sich. Beim Datenschutz geht es nämlich
+um den Schutz unserer Daten und zwar vor oft unerlaubter Erhebung, Verarbeitung
+und Weitergabe. Meist geht es dabei um personenbezogene Daten, also Daten, die
+unsere Person betreffen (z.B. Name, Vorlieben, Kaufverhalten...).
+Datenschutz wird häufig allein mit dem Internet verbunden aber auch außerhalb des
+Internets spielt er eine große Rolle. Es gibt strenge Auflagen, wie z.B. die
+Datenschutzgrundverordnung (DsGvo), nach denen sich beispielsweise Arbeitgeber,
+Ärzte, Beamten usw. richten müssen.
+Da wo Datenschutz betrieben werden muss ist auch die Datensamlung nicht fern.
+Interessiert an unseren Daten sind Konzerne wie zum Beispiel Meta (Insta, WhatsApp,
+Facebook...) aber auch der Staat oder einzelne Privatpersonen (z.B. Stalker).
+Datensammlung ist gut vergleichbar mit Überwachung. Konzerne wollen durch sie
+Profit machen und Handlungen ihrer User vorhersehen. Der Staat erlangt durch diese
+Überwachung Kontrolle und man spricht vom Endziel eines gläsernen Menschens.
+Daten sind das Gold unserer Zeit
+Heutzutage ist nichts umsonst. Wenn du eine Website besuchen kannst, ohne etwas
+bezahlen zu müssen, wirst du selbst zum Produkt. Durch das Akzeptieren der Cookies
+schließt du einen Vertrag mit der Websitebetreiber*in und deine Daten werden erfasst,
+sowie an Dritte weitergegeben. Ein Blick in die AGBs kann meist ganz schön
+erschreckend sein also überlege lieber zwei Mal, wem du deine persönlichen Daten zur
+Verfügung stellst.All das hört sich wahrscheinlich gar nicht so schlimm an uns man könnte meinen
+Überwachung und Kontrolle sind nichts Verwerfliches und sorgen für mehr Sicherheit
+aber wenn ihr die weiteren Texte lest wir euch vielleicht bewusst, was für
+katastrophale, sogar demokratiefeindliche Außmaße Datenmissbrauch annehmen kann
+und unsere Daten sehr schützenswert sind.
+(Hier könnt mehr zum Thema Datenschutz erfahren)
+Warum auch du etwas zu verbergen hast
+Zu behaupten, man hätte nichts zu verbergen ist wohl das häufigste und am
+einfachsten zu entkräftende Argument, mit dem Datenschützer:innen konfrontiert
+werden. Im folgenden Abschnitt werden einige weitere Argumente erklärt und
+entkräftet oder zumindest entlastet. Einherhehend mit der Erläuterung, warum
+Datenschutz so wichtig ist, werden ebenfalls einige Negativfolgen auf Grund von
+mangeldem Schutz aufgezeigt.
+Ausnahmslos jeder Mensch hat etwas zu verbergen. Die PIN der Bankkarte ist
+immerhin nichts, was veröffentlicht werden sollte und auch über die ein oder anderen
+Fehlkäufe berichtet man im Antrag für einen Kredit nicht. Viel personenbezogene
+Daten preiszugeben ermöglicht es anderen dich zu erpressen, stalken und selbst ein
+Blick in die Geschichtsbücher zeigt, dass gesammelte Informationen über die
+Bevölkerung auch in der Politik ein großes Missbrauchspotential bergen. Was heute
+irrelevant scheint kann morgen umso fatalere Folgen haben.
+Ein Beispiel dafür, welches später noch thematisiert wird, ist die massive
+Wahlmanipulation durch "Cambridge Analytics". Hierbei wird sehr deutlich klar, wie
+demokratiefeindlich es ist, wenn Wahlen manipuliert und Bürger außnahmslos
+überwacht werden, was ja zwingend zur Unterdrückung der Meinungsfreiheit führt.
+Dazu könnt ihr später noch mehr zum neuen EU-Entwurf der "Chatkontrolle" lesen.
+Ein ebenfalls sehr nachvollziehbaren Argument gegen vernünftigen Datenschutz ist,
+dass es viel Zeit, Mühe und oftmals technische Rafinesse benötigt. Der Mythos,
+Datenschutz sei zu kompliziert, sowie die Annahme das Alternativen zu proprietärer,
+also nicht vollkommen "durchsichtiger", Software schlechter sind, entspricht meist
+nicht der Wahrheit. Auch die Zeit sich ausführlicher oder nur grob mit Themen und
+Vorgängen zu beschäftigen hat jeder Mensch und sei es durch den Verzicht eines
+YouTube Videos, beim Klogang oder beim Warten auf die Bahn.
+Falls alles oben genannte noch nicht richtig überzeugen konnte folgen jetzt zwei
+weitere worst-case Szenarien und anschließend endlich die Möglichkeiten zum Schutz
+eurer Privatsphäre.
+### Ein Treffen mit Digital Courage
+Am 21.06. haben wir uns mit 2 netten Menschen von Digital Courage getroffen, durch
+welche wir die Chance hatten, mehr über die Arbeit innerhalb des Vereins und
+Möglichkeiten für eigenes Engagement zu erfahren. Dazu muss man wissen, dassDigital Courage eine Bürgerrechtsorganisation ist, welche sich innerhalb der EU für die
+digitalen Rechte der Menschen einsetzt und ihren Hauptsitz hier in Bielefeld hat.
+Neben vielen netten privaten Themen ging es in unserem 4 stündigen Gespräch
+hauptsächlich um ihre Arbeit innerhalb der Organisation, baldige Events und mögliche
+Mitmachaktionen. So haben wir erfahren, dass es an der Universität eine
+Hochschulgruppe gibt, in der man sich wohl am aktivsten einbringen könnte.

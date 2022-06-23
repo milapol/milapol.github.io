@@ -1,0 +1,52 @@
+---
+title: Chatkontolle
+description: Was ist die Chatkontrolle und Warum muss sie gestoppt werden
+---
+## Die Chatkontrolle 
+Die Chatkontrolle ist ein inoffizieller Begriff für eine am 6. Juli 2021 beschlossene Richtline der Europäischen Union, welche es Anbieter:innen von Kommunikationsdiensten (wie z.B Signal, What's App oder E-Mail Providern) erlaubt  **den Inhalt von Chatnachrichten und E-Mails durch Softwaresysteme auf Kinderpornografie  untersuchen zu lassen**. Solche Systeme werden seit dem Beschluss schon von zum Beispiel **Google**, **Microsoft** und **Meta**/Facebook eingestzt, bisher scanen unter anderen **G-Mail**, der **Facebook Messenger** und Microsofts **Outlook**. 
+Doch das ist noch nicht alles, denn die Richtlinie gilt nur die nächsten drei Jahre und soll dannach von einer Dauerlösung abglößt werden. Ein Gesetzesentwurf zu dieser permanenten Richtlinie wurde bereits am 11. Mai 2022 vorgestellt. Um diesen Entwurf soll es heute gehen. 
+## Was steht im Entwurf
+### Die relevantesten Punkte die im Entwurf erwähnt werden
+1. **Kommunikations- und Speicherdienste** sind **verpflichtet** Inhalt nach **kindesmissbräuchlichem Material durchsuchen**, das selbe gilt für **Anbahnungsversuche**, das so genannte **"Grooming"**
+2.  **Kommunikations- und Speicherdienste** sind **verpflichtet** das **Alter** ihrer Nutzer:innen zu **verifizieren**
+3. **Appstores** sind **verpflichtet** das **Alter** ihrer Nutzer:innen zu **verifizieren** und **Altersbeschränkungen durchzusetzen** für Apps die Kinder in Gefahr bringen können 
+4. **Internet Anbieter:innen** (wie z.B die Telekom, Vodaphone oder Unitymedia) **können dazu verpflichtet werden** den Zugang zu nicht-löschbarem Material von Kindesmissbrauch zu verhindern
+5. Auch **Ende zu Ende verschlüsselte Messenger** müssen Inhalte **auf Kinderpornographie und Anbahnungsversuche scannen** 
+
+### Wer nach dem neuen Gesetzentwurf zu was vepflichtet ist
+Verschiedene Anbieter:inenn von Diensten rund ums Internet, sind nach dem Entwurf zu bestimmten Maßnahmen verpflichtet <a href="#" data-bs-toggle="tooltip" title="Default tooltip">inline links</a>
+
+
+<table class="table table-dark table-striped">
+	<!-- <thead>
+		<tr>
+			<th scope="col">Anbieter:innen</th>
+			<th scope="col">Maßnamen</th>
+		</tr>
+	</thead> -->
+	<tbody>
+		<tr>
+			<th scope="row">Kommunikationsanbieter:innen</th>
+			<td>Inhalte nach Kinderpornographie
+                scannen,<br /> Inhalte nach Anbahnungsversuchen scannen,<br /> Das Alter von Nutzer:inenn verifizieren</td>
+		</tr>
+        <tr>
+			<th scope="row">Speicherdienste/Clouds</th>
+			<td>Inhalte nach Kinderpornographie scannen</td>
+		</tr>
+        <tr>
+			<th scope="row">Appstores</th>
+			<td>Das Alter von Nutzer:inenn verifizieren</td>
+		</tr>
+        <tr>
+			<th scope="row">Internetanbieter:innen</th>
+			<td>Auf Anordnung Urls nicht mehr anzeigen</td>
+		</tr>
+</tbody>
+</table>
+
+<style lang="scss">
+	table {
+		width: 100%;
+	}
+</style>
