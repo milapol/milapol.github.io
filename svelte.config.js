@@ -24,11 +24,6 @@ const config = {
             assets: "docs"
         }),
 
-
-		paths: {
-            base: dev ? "" : "/milapol.github.io",
-        },
-
 		prerender: {
 			default: true,
 		},
